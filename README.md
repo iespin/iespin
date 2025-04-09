@@ -38,7 +38,6 @@
 
 - Actualmente desarrollando habilidades ofensivas y defensivas en plataformas de entrenamiento como:
   - 🔐 [TryHackMe - Mi perfil](https://tryhackme.com/p/iespin)
-  - 💻 [Hack The Box - Mi perfil](https://app.hackthebox.com/profile/tu_usuario) *(opcional)*
 
 ---
 
