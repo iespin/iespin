@@ -10,17 +10,17 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes y frameworks**:  
-  `Java` (v21), `JavaScript ES6`, `HTML5`, `CSS3`, `React`, `Spring`, `Spring Boot`
-
-- **Bases de datos y APIs**:  
-  `PostgreSQL`, `PostgREST`, `Postman`
-
-- **Diseño y prototipado**:  
-  `Figma` (wireframes y maquetación)
-
-- **Ciberseguridad**:  
-  `Burp Suite`, fundamentos de pentesting y análisis de vulnerabilidades
+![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F57C00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -30,14 +30,30 @@
   Aplicación Android para mejorar la movilidad corporal mediante rutinas personalizadas, seguimiento del progreso y recomendaciones.  
   Tecnologías: `Java`, `Oracle`, `Android Studio`
 
-<!-- Añade más proyectos aquí si lo deseas -->
+<!-- Puedes agregar más proyectos aquí -->
+
+---
+
+## 🛡️ Ciberseguridad
+
+- Actualmente desarrollando habilidades ofensivas y defensivas en plataformas de entrenamiento como:
+  - 🔐 [TryHackMe - Mi perfil](https://tryhackme.com/p/iespin)
+  - 💻 [Hack The Box - Mi perfil](https://app.hackthebox.com/profile/tu_usuario) *(opcional)*
+
+---
+
+## 🔗 Redes y plataformas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel%20Espin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israelespin)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Israel_Espin-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/iespin)
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/israelespin)
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
 
 ---
 
 📍 Siempre en constante aprendizaje y buscando nuevos retos en el mundo del desarrollo y la ciberseguridad.
+
